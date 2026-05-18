@@ -1,0 +1,8 @@
+DB_HOST=localhost
+DB_PORT=3306
+DB_USER=root
+DB_PASSWORD=
+DB_NAME=genshinuwu
+
+MAIL_USER=boreaswind.gn@gmail.com
+MAIL_PASSWORD=uuuf ztvf ezsu nowq
